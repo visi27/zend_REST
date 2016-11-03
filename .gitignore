@@ -23,3 +23,10 @@ data/DoctrineORMModule/cache/
 # Legacy ZF1
 demos/
 extras/documentation
+
+# Zend Sutido Project Files
+.buildpath
+.project
+.settings/
+deployment.properties
+deployment.xml
