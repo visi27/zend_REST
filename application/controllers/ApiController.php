@@ -9,39 +9,7 @@ class ApiController extends MyRest_Controller
     
     public function indexAction()
     {
-        $partnersObj = new Application_Model_PartnersMaster();
-        //header('Content-Type: application/json');
-        $response = Zend_Json::encode($partnersObj->selectData()->toArray());
-        $iterations = 10000;
-        
-
-        $a = array("ZendDB" => $partnersObj->countData());
-
-        
-        
-        
-        $dbhost = 'infoweb.virtual';
-        $dbuser = 'root';
-        $dbpassword = 'asteriskReporT';
-        $database = 'billing';
-        
-        $conn = new mysqli($dbhost, $dbuser, $dbpassword, $database);
-        // Check connection
-        if ($conn->connect_error) {
-            die("MYSQL_INIT FAILED: " . $conn->connect_error);
-        }
-        $s = microtime(true);
-        
-        for ($i = 0; $i < $iterations; $i++){
-            $res = $conn->query("Select count(*) from partners_master");
-        }
-        $e = microtime(true);
-        
-        $a["RAW"]=$e-$s;
-        $a["PEAK_MEMORY"] = memory_get_peak_usage(true)/1024/1024;
-        $a["MEMORY"] = memory_get_usage(true)/1024/1024;
-        
-        $response = Zend_Json::encode($a);
+        $response = Zend_Json::encode("Hello World");
         
         $this->getResponse()->setBody($response);
         $this->getResponse()->setHttpResponseCode(200)
