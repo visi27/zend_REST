@@ -1,0 +1,302 @@
+2016-07-13T13:04:48+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+Array
+(
+    [deals_active] => Array
+        (
+            [>] => 0
+        )
+
+    [name] => Array
+        (
+            [LIKE] => %
+        )
+
+    [partner_account_manager] => Array
+        (
+            [LIKE] => %
+        )
+
+)
+
+
+2016-07-13T13:04:48+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+ 
+
+2016-07-13T13:05:51+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+Array
+(
+    [deals_active] => Array
+        (
+            [>] => 0
+        )
+
+    [name] => Array
+        (
+            [LIKE] => %
+        )
+
+    [partner_account_manager] => Array
+        (
+            [LIKE] => %
+        )
+
+)
+
+
+2016-07-13T13:05:51+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+
+
+2016-07-13T13:06:30+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+Array
+(
+    [deals_active] => Array
+        (
+            [>] => 0
+        )
+
+    [name] => Array
+        (
+            [LIKE] => %
+        )
+
+    [partner_account_manager] => Array
+        (
+            [LIKE] => %
+        )
+
+)
+
+
+2016-07-13T13:06:30+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+
+
+2016-07-13T13:06:37+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+Array
+(
+    [deals_active] => Array
+        (
+            [>] => 0
+        )
+
+    [name] => Array
+        (
+            [LIKE] => %
+        )
+
+    [partner_account_manager] => Array
+        (
+            [LIKE] => %
+        )
+
+)
+
+
+2016-07-13T13:06:37+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+
+
+2016-07-13T13:06:40+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+Array
+(
+    [deals_active] => Array
+        (
+            [>] => 0
+        )
+
+    [name] => Array
+        (
+            [LIKE] => %
+        )
+
+    [partner_account_manager] => Array
+        (
+            [LIKE] => %
+        )
+
+)
+
+
+2016-07-13T13:06:40+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+
+
+2016-07-13T13:06:55+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+Array
+(
+    [deals_active] => Array
+        (
+            [>] => 0
+        )
+
+    [name] => Array
+        (
+            [LIKE] => %
+        )
+
+    [partner_account_manager] => Array
+        (
+            [LIKE] => %
+        )
+
+)
+
+
+2016-07-13T13:06:55+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+
+
+2016-07-13T13:07:06+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+Array
+(
+    [deals_active] => Array
+        (
+            [>] => 0
+        )
+
+    [name] => Array
+        (
+            [LIKE] => %
+        )
+
+    [partner_account_manager] => Array
+        (
+            [LIKE] => %
+        )
+
+)
+
+
+2016-07-13T13:07:06+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+
+
+2016-07-13T13:08:25+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+Array
+(
+    [deals_active] => Array
+        (
+            [>] => 0
+        )
+
+    [name] => Array
+        (
+            [LIKE] => %
+        )
+
+    [partner_account_manager] => Array
+        (
+            [LIKE] => %
+        )
+
+    [status] => Array
+        (
+            [=] => 1
+        )
+
+)
+
+
+2016-07-13T13:08:25+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+
+
+2016-07-13T13:08:28+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+Array
+(
+    [deals_active] => Array
+        (
+            [>] => 0
+        )
+
+    [name] => Array
+        (
+            [LIKE] => %
+        )
+
+    [partner_account_manager] => Array
+        (
+            [LIKE] => %
+        )
+
+    [status] => Array
+        (
+            [=] => 1
+        )
+
+)
+
+
+2016-07-13T13:08:28+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+
+
+2016-07-13T13:09:22+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+Array
+(
+    [deals_active] => Array
+        (
+            [>] => 0
+        )
+
+    [name] => Array
+        (
+            [LIKE] => %
+        )
+
+    [partner_account_manager] => Array
+        (
+            [LIKE] => %
+        )
+
+    [status] => Array
+        (
+            [=] => 1
+        )
+
+)
+
+
+2016-07-13T13:09:22+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+
+
+2016-07-13T13:12:07+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+Array
+(
+    [deals_active] => Array
+        (
+            [>] => 0
+        )
+
+    [name] => Array
+        (
+            [LIKE] => %
+        )
+
+    [partner_account_manager] => Array
+        (
+            [LIKE] => %
+        )
+
+    [status] => Array
+        (
+            [=] => 1
+        )
+
+)
+
+
+2016-07-13T13:12:07+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+
+
+2016-07-13T13:14:14+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+SELECT `DEAL_partner`.`id`, `DEAL_partner`.`name`, `DEAL_partner`.`bill_partners`, `DEAL_partner`.`partner_account_manager`, `DEAL_partner`.`deals_active`, `DEAL_partner`.`pam_deal_revexpect_IN`, `DEAL_partner`.`pam_deal_revexpect_OUT`, `DEAL_partner`.`status` FROM `DEAL_partner` WHERE (deals_active > '0') AND (name LIKE '%') AND (partner_account_manager LIKE '%') AND (status = '1') LIMIT 20
+
+2016-07-13T13:23:58+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+SELECT count(1) AS `count` FROM `DEAL_partner` WHERE (status='1')
+
+2016-07-13T13:28:05+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+SELECT count(1) AS `count` FROM `DEAL_partner` WHERE (status='1') AND (deals_active>'0')
+
+2016-07-13T13:39:39+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+SELECT count(1) AS `count` FROM `DEAL_partner` WHERE (status='1') AND (deals_active>'0')
+
+2016-07-13T13:51:43+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+SELECT count(1) AS `count` FROM `DEAL_partner` WHERE (status='1') AND (deals_active>'0')
+
+2016-07-13T13:51:55+02:00 INFO (6): UserId:; IP:127.0.0.1; SessionId:;
+SELECT count(1) AS `count` FROM `DEAL_partner` WHERE (status='1') AND (deals_active>'0')
+
